@@ -9,7 +9,7 @@ export default function Index() {
             href="https://remix.run/tutorials/blog"
             rel="noreferrer"
           >
-            15m Quickstart Blog Tutorial (test)
+            15m Quickstart Blog Tutorial (new)
           </a>
         </li>
         <li>
@@ -24,6 +24,15 @@ export default function Index() {
         <li>
           <a target="_blank" href="https://remix.run/docs" rel="noreferrer">
             Remix Docs
+          </a>
+        </li>
+        <li>
+          <a
+            target="_blank"
+            href="https://www.digitalocean.com"
+            rel="noreferrer"
+          >
+            DO Homepage
           </a>
         </li>
       </ul>
